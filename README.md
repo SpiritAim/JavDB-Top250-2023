@@ -16,12 +16,14 @@ The purpose of this repository is to **continue** the work that was being done b
 
 If you would like me to do the same for **JavDB - Top 250 2024**, please send an **email** to **admin@spiritjav.com**. If there is enough demand, I will create a repository for the 2024 ranking and will update it regularly.
 
-If you feel that my work has helped you in any way, you can buy me a coffee to support my work by sending any amount to the Bitcoin wallet below:
+If you feel that my work has helped you in any way, **you can buy me a coffee to support my work** by sending **any amount to the Bitcoin wallet** below:
 
 > **bc1quhe8e0eru5maqvmjtr42ydlql858sa4cqq9rez**
 
 
-# Thank you for all the support, and I hope you enjoy my work.
+## Thank you for all the support, and I hope you enjoy my work.
+
+## NOTE: Please do not forget to **STAR** this repository to show your support. Thank you!
 
 
 
